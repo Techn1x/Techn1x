@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-[![Techn1x's GitHub stats](https://github-readme-stats.vercel.app/api?username=techn1x)](https://github.com/techn1x/github-readme-stats)
+[![Techn1x's GitHub stats](https://github-readme-stats.vercel.app/api?username=techn1x&theme=dark&show_icons=true)](https://github.com/techn1x/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techn1x&layout=compact&theme=dark)
+
 
 <!--
 **Techn1x/Techn1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
