@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Techn1x's GitHub stats](https://github-readme-stats.vercel.app/api?username=techn1x)](https://github.com/techn1x/github-readme-stats)
+
 <!--
 **Techn1x/Techn1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
