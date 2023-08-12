@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+I'm a senior software engineer located in Australia. Typescript, Ember.js
+
 [![Techn1x's GitHub stats](https://github-readme-stats.vercel.app/api?username=techn1x&theme=great-gatsby&show_icons=true&hide=stars&custom_title=Github%20Stats%20%28Public%29)](https://github.com/techn1x/github-readme-stats)
 
+Most of my public contributions are javascript, but for private repositories it is usually typescript.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techn1x&layout=compact&theme=great-gatsby)
 
 
